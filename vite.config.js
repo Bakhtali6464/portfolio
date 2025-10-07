@@ -2,23 +2,21 @@ import { defineConfig, loadEnv } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
-// https://vite.dev/config/
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
+  const isProduction = mode === 'production';
+  
   return {
-    base: `/${env.VITE_REPO_NAME}/`,
+    // base: isProduction ? '/portfolio/' : '/',
+    base: '/portfolio/',
     plugins: [react(), tailwindcss()],
     server: {
       open: true,
-      base: '/Bakhtali/', // Use your repository name here
-      host: false, // Allow access from network devices
-      proxy: {
-        "/api": {
-          target: "http://localhost:5000",
-          changeOrigin: true,
-          secure: true,
-        },
-      },
+      host: true,
     },
+    build: {
+      outDir: 'dist',
+      assetsDir: 'assets'
+    }
   };
 });

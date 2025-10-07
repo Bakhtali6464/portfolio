@@ -2,18 +2,18 @@
 
 #### Preview
 
-- [Demo](https://bakhtali6464.github.io/Bakhtali/)
+- [Demo](https://bakhtali6464.github.io/portfolio)
 
 #### Download
 
-- [Download from ThemeWagon](https://bakhtali6464.github.io/Bakhtali/)
+- [Download from Bakht Ali](https://bakhtali6464.github.io/portfolio)
 
 ## Getting Started
 
 1. Clone Repository
 
 ```
-git clone https://bakhtali6464.github.io/Bakhtali/
+git clone https://bakhtali6464.github.io/portfolio
 ```
 
 2. Install Dependencies
@@ -42,6 +42,6 @@ Developed by Bakht Ali and development team.
 
 ## License
 
-- Design and Code is Copyright &copy; <a href="https://bakhtali6464.github.io/Bakhtali/" target="_blank">BakhtAli</a>
+- Design and Code is Copyright &copy; <a href="https://bakhtali6464.github.io/portfolio" target="_blank">BakhtAli</a>
 - Licensed cover under [MIT]
-- Developed by <a href="https://bakhtali6464.github.io/Bakhtali/" target="_blank">BakhtAli</a>
+- Developed by <a href="https://bakhtali6464.github.io/portfolio" target="_blank">BakhtAli</a>
