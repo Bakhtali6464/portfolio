@@ -2,18 +2,18 @@
 
 #### Preview
 
-- [Demo](https://themewagon.github.io/picto/)
+- [Demo](https://bakhtali6464.github.io/Bakhtali/)
 
 #### Download
 
-- [Download from ThemeWagon](https://themewagon.com/themes/picto)
+- [Download from ThemeWagon](https://bakhtali6464.github.io/Bakhtali/)
 
 ## Getting Started
 
 1. Clone Repository
 
 ```
-git clone https://github.com/themewagon/picto.git
+git clone https://bakhtali6464.github.io/Bakhtali/
 ```
 
 2. Install Dependencies
@@ -37,11 +37,11 @@ bun dev
 ## Author
 
 ```
-Developed by ThemeWagon and development team.
+Developed by Bakht Ali and development team.
 ```
 
 ## License
 
-- Design and Code is Copyright &copy; <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
+- Design and Code is Copyright &copy; <a href="https://bakhtali6464.github.io/Bakhtali/" target="_blank">BakhtAli</a>
 - Licensed cover under [MIT]
-- Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
+- Developed by <a href="https://bakhtali6464.github.io/Bakhtali/" target="_blank">BakhtAli</a>

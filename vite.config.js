@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
     plugins: [react(), tailwindcss()],
     server: {
       open: true,
-      base: '/Bakhtali_Portfolio/', // Use your repository name here
+      base: '/Bakhtali/', // Use your repository name here
       host: false, // Allow access from network devices
       proxy: {
         "/api": {

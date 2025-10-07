@@ -11,7 +11,7 @@
         "preview": "vite preview",
         "predeploy": "npm run build"
     },
-    "homepage": "https://Bakhtali6464.github.io/Bakhtali_Portfolio",
+    "homepage": "https://bakhtali6464.github.io/Bakhtali/",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.7.2",
         "@fortawesome/free-brands-svg-icons": "^6.7.2",
@@ -44,7 +44,7 @@
         "globals": "^15.15.0",
         "vite": "^6.2.0"
     },
-    "description": "- [Demo](https://themewagon.github.io/picto/)",
+    "description": "- [Demo](https://bakhtali6464.github.io/Bakhtali/)",
     "main": "eslint.config.js",
     "author": "",
     "license": "ISC"
