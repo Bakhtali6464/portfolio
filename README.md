@@ -2,18 +2,18 @@
 
 #### Preview
 
-- [Demo](https://bakhtali6464.github.io/portfolio)
+- [Demo](https://bakhtali6464.github.io/portfolio/)
 
 #### Download
 
-- [Download from Bakht Ali](https://bakhtali6464.github.io/portfolio)
+- [Download from Bakht Ali](https://bakhtali6464.github.io/portfolio/)
 
 ## Getting Started
 
 1. Clone Repository
 
 ```
-git clone https://bakhtali6464.github.io/portfolio
+git clone https://bakhtali6464.github.io/portfolio/
 ```
 
 2. Install Dependencies
